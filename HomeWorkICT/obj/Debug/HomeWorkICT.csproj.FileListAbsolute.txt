@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2013\Projects\HomeWorkICT\HomeWorkICT\obj\Debug\HomeWorkICT.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\HomeWorkICT\HomeWorkICT\bin\Debug\HomeWorkICT.exe
+c:\users\alex\documents\visual studio 2013\Projects\HomeWorkICT\HomeWorkICT\bin\Debug\HomeWorkICT.pdb
+c:\users\alex\documents\visual studio 2013\Projects\HomeWorkICT\HomeWorkICT\obj\Debug\HomeWorkICT.exe
+c:\users\alex\documents\visual studio 2013\Projects\HomeWorkICT\HomeWorkICT\obj\Debug\HomeWorkICT.pdb
